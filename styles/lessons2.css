@@ -1,0 +1,21 @@
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+.class1 {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+.class2 {
+    height: 100%;
+    width: 50%;
+    display: table-cell;
+    vertical-align: middle;
+}
+.class3 {
+    height: 100%;
+    width: 50%;
+ }
